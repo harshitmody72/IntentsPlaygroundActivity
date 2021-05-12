@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntentsPlaygroundActivity</string>
+    <string name="my_counter">MY COUNTER</string>
+    <string name="decBtn">-</string>
+    <string name="incBtn">+</string>
+    <string name="_0">0</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="open_main_activity">OPEN MAIN ACTIVITY</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="data">Data</string>
+    <string name="open_webPage">Open WebPage</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="share_text">Share Text</string>
+    <string name="go">Go</string>
+    <string name="initial_count">Initial Count</string>
+    <string name="sending_amp_receiving_data"><![CDATA[Sending & Receiving Data]]></string>
+    <string name="send">Send</string>
+    <string name="send_back">SEND BACK</string>
+</resources>
