@@ -22,7 +22,7 @@
 
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/1.png)
 > 
-### Explicit Intent
+### Implicit Intent
 ---
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/2.png)
 > 
@@ -36,6 +36,9 @@
 > 
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/7.png)
 > 
+
+### Data Sharing using Explicit Intent
+---
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/8.png)
 > 
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/9.png)
