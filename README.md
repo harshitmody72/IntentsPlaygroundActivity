@@ -22,7 +22,8 @@
 
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/1.png)
 > 
-
+### Explicit Intent
+---
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/2.png)
 > 
 > ![](https://github.com/harshitmody72/IntentsPlaygroundActivity/blob/master/Resources/3.png)
